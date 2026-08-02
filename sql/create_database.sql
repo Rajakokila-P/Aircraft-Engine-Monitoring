@@ -1,4 +1,4 @@
-CREATE DATABASE create_database.sql;
+CREATE DATABASE AircraftEngineMonitoring;
 GO
 
 USE AircraftEngineMonitoring;
